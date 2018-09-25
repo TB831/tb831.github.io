@@ -364,6 +364,12 @@ footer {
     transform: translate(-50%, -50%);
     text-align: center;
 
+    img {
+      height: 300px;
+      width: 300px;
+      border-radius: 50%;
+    }
+
     h1, h2 {
         margin: 0;
     }
